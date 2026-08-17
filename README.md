@@ -182,6 +182,4 @@ Voxora is currently a personal v1 project. Issues and pull requests are welcome 
 
 ## License
 
-No license has been selected yet. Until a `LICENSE` file is added, all rights are reserved and no permission is granted to copy, modify, or distribute this project.
-
-Replace this section when a license is chosen (for example, MIT, Apache-2.0, or a proprietary license).
+Apache 2.0
