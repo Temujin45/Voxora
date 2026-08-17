@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+
+# Xcode user-specific files
+DerivedData/
+build/
+*.xcuserstate
+xcuserdata/
+*.xccheckout
+*.xcscmblueprint
+
+# Swift Package Manager
+.build/
+.swiftpm/
+
+# Secrets
+.env
+.env.*
+*.p12
+*.key
+*.pem
+*.mobileprovision
+
+# Xcode archives
+*.xcarchive
